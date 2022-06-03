@@ -12,4 +12,5 @@ Hunter
 
 '''
 num = int(input("Times to print: "))
-print("Hunter" * num)
+print("Hunter 
+      " * num)
